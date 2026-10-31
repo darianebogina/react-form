@@ -1,0 +1,13 @@
+.input {
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    color: black;
+}
+
+.error {
+    color: #aa3bff;
+    font-size: 12px;
+}
